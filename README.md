@@ -22,7 +22,7 @@ Create a 'sequencer' that allows you to record BOOT button presses and play them
 4. the [sequencer.c](https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/code/sequencer.c) for realizing the whole functions which are requested.
 
 ## Results:
-1. record and replay:
+#### Record and replay:
 
 a. screen: <div align=center><img width="300" height="200" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/record%20and%20replay.png"/></div>
 
@@ -30,10 +30,14 @@ b. demo: <div align=center><img width="400" height="600" src="https://github.com
 
 <div align=center><img width="400" height="600" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/replay.gif"/></div>
 
-2. loop:
+#### Loop:
 
 a. screen: <div align=center><img width="300" height="150" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/loop.png"/></div>
 
-b. demo: <div align=center><img width="400" height="600" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/record%20and%20replay.png"/></div>
+b. demo: <div align=center><img width="400" height="600" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/loop.gif"/></div>
 
-3. save and upload
+#### Save and upload
+a. screen: <div align=center><img width="500" height="150" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/截屏2022-11-16%20下午2.40.58.png"/></div>
+
+#### Type and play
+a. demo: <div align=center><img width="400" height="200" src="https://github.com/xcyxcyxcyxcy/lab2b-part03/blob/main/type.gif"/></div>
